@@ -1,3 +1,67 @@
+# RoomScout 🏠
+
+### A Student-Focused Real Estate Platform
+
+**RoomScout** is a housing platform built to help **international students** in NYC find suitable accommodations with ease. It integrates key student-centric features, including verification, filters for key housing needs, and seamless property management.
+
+---
+
+## 🚀 Features
+
+- **🏡 Lessee Profile Setup:** Create housing preferences (location, guarantor requirements, etc.)
+- **🎓 Student Verification:** Authenticate via university email for eligibility
+- **📌 Property Listings:** Lessors can post detailed listings with images and videos
+- **🔍 Advanced Search & Filters:** Find properties by price, distance, amenities
+- **❤️ Wishlist Feature:** Save and compare properties
+- **📊 Safety Indicators:** Proximity to subway, laundromats, and crime rates
+
+---
+
+## 📊 Tech Stack
+
+- **Backend:** Python, Flask/FastAPI, PostgreSQL
+- **Frontend:** React.js, Next.js, TailwindCSS
+- **Authentication:** Firebase Auth, JWT
+- **Testing:** Jest, Pytest (87% Code Coverage)
+- **Infrastructure:** AWS EC2, Docker, CI/CD
+
+---
+
+## 🛠 Development & Testing
+
+- **Agile Development:** Scrum methodology (153 Story Points, 24 User Stories)
+- **Unit Tests:** 32 (Jest + Pytest)
+- **Load Testing:** Locust (110ms median response time, 0.21% failure rate)
+
+---
+
+## 📈 Performance Benchmarks
+
+| Metric | Value |
+|--------|------|
+| Median Response Time | 110ms |
+| Total Requests | 38,000 |
+| Failure Rate | 0.21% |
+| Requests per Second | 25.4 |
+
+---
+
+## 📌 Contributors
+
+- **Akshat Singh** - Product Owner
+- **Dhruv Topiwala** - Backend
+- **Aninda Ghosh** - Backend
+- **Subhrajit Dey** - Backend
+- **Manamrit Singh** - Frontend
+
+---
+
+## 🛠 Setup & Installation
+
+1. **Clone the Repository**
+   ```sh
+   git clone https://github.com/your-repo/roomscout.git
+   cd roomscout
   
 
 #  RoomScout App - Backend
